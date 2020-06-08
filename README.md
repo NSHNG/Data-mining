@@ -1,1 +1,1 @@
-# Date-mining
+# Data-mining
